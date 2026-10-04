@@ -92,9 +92,8 @@
 // .ToList();
 
 // Console.WriteLine($"Задачи: №{assigned[0]} и №{assigned[1]}");
-
+// 
 // Вариант 7
-using System.Globalization;
 
 for (int a = 1; a <= 5; a++)
 {
@@ -104,6 +103,7 @@ for (int a = 1; a <= 5; a++)
     }
 }
 
+Console.WriteLine();
 // Вариант 10
 for (int i = 1; i <= 5; i++)
 {
